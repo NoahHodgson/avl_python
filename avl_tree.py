@@ -2,8 +2,8 @@
 AVL Tree implementation
 CISC320 Algorithms Spring 2021
 Group Mates:
-- name (email)
-Debugging Process Description:
+Noah Hodgson
+Ribo Yuan
 """
 
 
